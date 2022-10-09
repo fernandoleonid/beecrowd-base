@@ -9,7 +9,8 @@
 }
 body{
     height: 100vh;
-    max-width: 640px;
+    max-width: 580px;
+    padding: 8px;
     margin: auto;
     display: grid;
     grid-template-rows: 75px auto auto 1fr auto;

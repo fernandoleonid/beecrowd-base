@@ -1,2 +1,17 @@
-# beecrowd
-Arquivos para ajudar a resolver os problemas do site [beecrowd](https://www.beecrowd.com.br/) utilizados no meu [canal](https://www.youtube.com/fernandoleonid) do youtube.
+
+# BEECROWD Soluções
+
+Soluções para os problemas do site [beecrowd](https://www.beecrowd.com.br/) usando o javascript.
+
+A ideia é você tentar resolver primeiro e depois compara com o código do repositório e caso tenha dificuldade acompanhe a resolução no canal do youtube.
+
+[Soluções](https://www.youtube.com/watch?v=luBT_3FSwUA&list=PLDgemkIT111CrpGu9s4dICdOJYHGbgAiX&index=1) passo a passo.
+
+
+### Soluções disponíveis neste repositório:
+
+| Problema  |  Nome  |  Vídeo aula |
+| --------- | ------ | --------- |
+|  [1001](./problems/1001.js) | Extremamente Básico  | canal |
+|  [1002](./problems/1001.js) |   Área do Círculo    | canal |
+|  [1003](./problems/1001.js) |     Soma Simples     | canal |
