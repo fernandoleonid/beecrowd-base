@@ -1,4 +1,3 @@
-
 # BEECROWD Soluções
 
 Soluções para os problemas do site [beecrowd](https://www.beecrowd.com.br/) usando o javascript.
@@ -12,6 +11,4 @@ A ideia é você tentar resolver primeiro e depois compara com o código do repo
 
 | Problema  |  Nome  |  Vídeo aula |
 | --------- | ------ | --------- |
-|  [1001](./problems/1001.js) | Extremamente Básico  | canal |
-|  [1002](./problems/1001.js) |   Área do Círculo    | canal |
-|  [1003](./problems/1001.js) |     Soma Simples     | canal |
+|  [1000](./problems/1000.js) | Hello World! | canal |
